@@ -23,7 +23,7 @@ An example customers.txt file would be: \
 An example banks.txt file would be:\
 {rbc,800}. \
 (bmo,700}. \
-{ing,200}. \
+{ing,200}.
 
 In other words, each file simply contains a set of erlang tuples. You will see that each label is
 associated with a number. For customers, this is the total funds that they are hoping to obtain. For
@@ -86,7 +86,7 @@ Below, we see partial output for our running example (including input data):
 jill: 450\
 joe: 157\
 bob: 100\
-sue: 125\
+sue: 125
 
 ** Banks and financial resources **\
 rbc: 800\
